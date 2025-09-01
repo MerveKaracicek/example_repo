@@ -1,0 +1,15 @@
+C:\Users\Mero1\example_repo\bin\Debug\net8.0\example_repo.exe
+C:\Users\Mero1\example_repo\bin\Debug\net8.0\example_repo.deps.json
+C:\Users\Mero1\example_repo\bin\Debug\net8.0\example_repo.runtimeconfig.json
+C:\Users\Mero1\example_repo\bin\Debug\net8.0\example_repo.dll
+C:\Users\Mero1\example_repo\bin\Debug\net8.0\example_repo.pdb
+C:\Users\Mero1\example_repo\obj\Debug\net8.0\example_repo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mero1\example_repo\obj\Debug\net8.0\example_repo.AssemblyInfoInputs.cache
+C:\Users\Mero1\example_repo\obj\Debug\net8.0\example_repo.AssemblyInfo.cs
+C:\Users\Mero1\example_repo\obj\Debug\net8.0\example_repo.csproj.CoreCompileInputs.cache
+C:\Users\Mero1\example_repo\obj\Debug\net8.0\example_repo.sourcelink.json
+C:\Users\Mero1\example_repo\obj\Debug\net8.0\example_repo.dll
+C:\Users\Mero1\example_repo\obj\Debug\net8.0\refint\example_repo.dll
+C:\Users\Mero1\example_repo\obj\Debug\net8.0\example_repo.pdb
+C:\Users\Mero1\example_repo\obj\Debug\net8.0\example_repo.genruntimeconfig.cache
+C:\Users\Mero1\example_repo\obj\Debug\net8.0\ref\example_repo.dll
